@@ -15,7 +15,7 @@ As there will be a hands-on session on wireshark. So, you are requested to insta
     ```
     
     - Step 2: Download and Install Wireshark
-    ``bash
+    ```bash
     $ sudo apt install wireshark
     ```
     
