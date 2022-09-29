@@ -3,7 +3,7 @@
 - [Prathmesh Raje](https://github.com/prathameshraje23)
 - [Rushikesh Ware](https://github.com/rushiware)
 ---
-## Date: [29th  Set 2022]()
+## Date: [29th  Sept 2022]()
 
 ## Prerequisite
 As there will be a hands-on session on wireshark. So, you are requested to install it.
