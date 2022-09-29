@@ -1,7 +1,7 @@
 # Topic: How Internet Works
 ## Presentors: 
 - [Prathmesh Raje](https://github.com/prathameshraje23)
-- [Rushikesh Ware](https://github.com/)
+- [Rushikesh Ware](https://github.com/rushiware)
 ---
 ## Date: [29th  Set 2022]()
 
