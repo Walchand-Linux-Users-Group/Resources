@@ -10,33 +10,35 @@ As there will be a hands-on session on wireshark. So, you are requested to insta
 - ### Installation of Wireshark
   - On Linux Debian
     - Step 1: Update APT
-    ```bash
-    $ sudo apt update
-    ```
+      ```bash
+      $ sudo apt update
+      ```
     
     - Step 2: Download and Install Wireshark
-    ```bash
-    $ sudo apt install wireshark
-    ```
+      ```bash
+      $ sudo apt install wireshark
+      ```
     
     - Step 3: Enable Root Privileges
-    Provide superuser/root privileges to operate.
-
+      ```
+      Provide superuser/root privileges to operate.
+      ```
+    
     - Step 4: (Optional) Reconfigure Permission Settings
-    ```bash
-    $ sudo dpkg-reconfigure wireshark-common
-    $ sudo usermod -aG wireshark $(whoami)
-    ```
+      ```bash
+      $ sudo dpkg-reconfigure wireshark-common
+      $ sudo usermod -aG wireshark $(whoami)
+      ```
     
     - Step 5: Reboot your Computer
-    ```bash
-    $ sudo reboot
-    ```
+      ```bash
+      $ sudo reboot
+      ```
     
     - Step 6: Start Wireshark
-    ```bash
-    $ wireshark
-    ```
+      ```bash
+      $ wireshark
+      ```
   - On Windows
     - Visit the official website, go to download section and download Windows Installer of wireshark. Click [here](https://www.wireshark.org/#download)
     - You can choose to install several optional components and select the location of the installed package. 
