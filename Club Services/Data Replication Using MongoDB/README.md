@@ -63,7 +63,7 @@
     ```bash
     $ sudo systemctl start mongod
     $ sudo systemctl enable mongod
-    $ sydo systemctl statust mongod
+    $ sudo systemctl statust mongod
     ```
     
   - #### Windows:
