@@ -43,17 +43,27 @@
        $ mongod --version                         
        ```
   - #### Ubuntu:
-    1] Get the Prerequisites
     ```bash
-    $ sudo apt-get install libcurl4 openssl liblzma5
+    $ sudo apt update
+    $ sudo apt install dirmngr gnupg apt-transport-https ca-certificates software-properties-common
+    $ sudo wget -qO - https://www.mongodb.org/static/pgp/server-5.0.asc | sudo apt-key add -
+    $ echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/5.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-5.0.list
+    $ sudo apt-get update
+    $ sudo apt-get install -y mongodb-org
     ```
-    
-    2] Download the tarball
-    Click on the following [link](https://www.mongodb.com/try/download/community)
-    
-    3] Extract the files
+
+    If you came across an error like this: `You have held broken packages (libssl1)` then do:
     ```bash
-    tar -zxvf mongodb-linux-*-6.0.2.tgz
+    $ echo "deb http://security.ubuntu.com/ubuntu focal-security main" | sudo tee /etc/apt/sources.list.d/focal-security.list
+    $ sudo apt-get update
+    $ sudo apt-get install libssl1.1
+    ```
+
+    Once MongoDB is installed run this commands to start MongoDB:
+    ```bash
+    $ sudo systemctl start mongod
+    $ sudo systemctl enable mongod
+    $ sydo systemctl statust mongod
     ```
     
   - #### Windows:
