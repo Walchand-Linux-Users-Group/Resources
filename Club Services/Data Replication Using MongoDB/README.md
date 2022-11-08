@@ -1,8 +1,8 @@
 # Topic: Data Replication Using MongoDB
 
 ## Presenters:
-  - [Krishnacharan Bhola]()
-  - [Kartik Chavan]()
+  - [Krishnacharan Bhola](https://github.com/kcbhola3030)
+  - [Kartik Chavan](https://github.com/KartikJS1)
 
 ## Date: [4th Nov 2022]()
 
