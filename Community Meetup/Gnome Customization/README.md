@@ -1,7 +1,7 @@
 # Topic: GNOME CUSTOMIZATION 
 
 ## Speakers:
-- [Daulatrao Patil](GNOME CUSTOMIZATION)
+- [Daulatrao Patil](https://github.com/RAOdotSH)
 - [Ritesh Wanave](https://github.com/RiteshWanave)
 
 ## Requirements
