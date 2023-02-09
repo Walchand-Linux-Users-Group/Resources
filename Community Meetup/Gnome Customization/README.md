@@ -19,6 +19,7 @@ sudo apt install gnome-tweaks gnome-shell-extensions gnome-shell-extension-manag
 - [Icons Deepin](https://www.gnome-look.org/p/1678986/)
 - [Theme Orchis](https://www.gnome-look.org/p/1357889/)
 - [Cursor Deepin](https://www.gnome-look.org/p/1422127/)
+- [Grub Themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 
 ## Extensions
 - [User Theme](https://extensions.gnome.org/extension/19/user-themes/)
