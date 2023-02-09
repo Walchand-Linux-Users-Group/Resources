@@ -1,8 +1,8 @@
 # Topic: GNOME CUSTOMIZATION 
 
-## Presenters:
-- [Daulatrao Patil](https://github.com/kcbhola3030)
-- [Ritesh Wanave](https://github.com/KartikJS1)
+## Speakers:
+- [Daulatrao Patil](GNOME CUSTOMIZATION)
+- [Ritesh Wanave](https://github.com/RiteshWanave)
 
 ## Requirements
 - Gnome Desktop Environment
