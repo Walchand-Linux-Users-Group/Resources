@@ -1,0 +1,57 @@
+.Comments {
+  border-top: 2px solid black;
+  padding: 1.5em 0;
+  margin: 2em 0;
+}
+.Comments_AddCommentContainer {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 1em 0;
+  justify-content: flex-start;
+}
+
+.Comments_CommentInfo {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Comments_AddCommentContainer textarea {
+  width: 100%;
+  padding: 0.5em;
+}
+
+.Comments_AddBtn {
+  color: white;
+  font-weight: bold;
+  background-color: rgb(24, 174, 229);
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 5px;
+  align-self: flex-end;
+  margin-bottom: 1em;
+  cursor: pointer;
+  text-decoration: none;
+  margin: 1em 0;
+}
+
+.Comments_commentsContainer {
+  width: 100%;
+}
+
+.Comments_SingleComment {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1em 0;
+}
+
+.Comments_Author {
+  color: rgb(21, 142, 185);
+  font-weight: 550;
+  margin: 0.5em 0;
+}

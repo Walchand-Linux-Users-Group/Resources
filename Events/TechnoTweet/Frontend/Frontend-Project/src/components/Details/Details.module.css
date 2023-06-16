@@ -1,0 +1,80 @@
+.Details {
+  width: 70%;
+  margin: 3em auto;
+}
+
+#delete {
+  color: white;
+  font-weight: bold;
+  font-size: 1.2em;
+  padding: 0.5em 1em;
+  background-color: rgb(228, 67, 67);
+  cursor: pointer;
+  border: none;
+  border: 2px solid transparent;
+  border-radius: 5px;
+}
+
+#delete:hover {
+  color: rgb(228, 67, 67);
+  background-color: transparent;
+  border: 2px solid rgb(228, 67, 67);
+}
+
+.MetaData {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin: 1em 0;
+}
+
+.ImageContainer {
+  width: 100%;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+.ImageContainer img {
+  width: 100%;
+  height: 100%;
+}
+
+.title {
+  /* margin: 1em 0; */
+}
+
+.InfoContainer,
+.InfoContainer p {
+  margin: 1em 0;
+}
+
+.Description {
+  color: grey;
+  margin: 0.5em 0 2em 0;
+  overflow-wrap: anywhere;
+}
+
+.Description {
+  color: grey;
+  margin: 0.5em 0 2em 0;
+  overflow-wrap: anywhere;
+}
+
+.InfoContainer {
+  overflow-wrap: anywhere;
+}
+
+.Details_FirstContainer {
+  display: flex;
+}
+
+.Details_InnerDiv,
+.ImageContainer {
+  flex: 0.5;
+  margin: 0.5em;
+}
+
+.ImageContainer {
+  max-height: 20em;
+}

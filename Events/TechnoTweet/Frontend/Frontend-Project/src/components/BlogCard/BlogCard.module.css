@@ -1,0 +1,13 @@
+.BlogCard_Heading {
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.BlogCard_para {
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: wrap;
+  overflow: hidden;
+}

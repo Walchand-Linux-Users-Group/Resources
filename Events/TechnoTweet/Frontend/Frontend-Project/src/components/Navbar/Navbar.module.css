@@ -1,0 +1,23 @@
+.navbar {
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+
+.innerNav {
+  width: 60%;
+  margin: 0 auto;
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navigations a {
+  color: black;
+  text-decoration: none;
+  margin: 0 0.5em;
+}
+
+.active {
+  font-weight: bold;
+}
