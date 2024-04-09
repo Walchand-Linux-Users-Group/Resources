@@ -26,9 +26,9 @@ Connect with us:
 
 ## Follow Us on Social Media
 Stay connected and engaged with our community on social media platforms:
-- Facebook: [Walchand Linux Users' Group](https://www.facebook.com/walchandlug)
-- Twitter: [@walchandlug](https://twitter.com/walchandlug)
-- Instagram: [walchandlug](https://www.instagram.com/walchandlug)
+- LinkedIn: [wlug-club](http://linkedin.com/company/wlug-club)
+- Twitter: [@wcewlug](http://twitter.com/wcewlug)
+- Instagram: [wcewlug](http://instagram.com/wcewlug)
 
 Join us in our mission to promote open-source technologies, collaboration, and knowledge sharing!
 
