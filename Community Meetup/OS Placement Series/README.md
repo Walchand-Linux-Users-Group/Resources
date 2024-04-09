@@ -23,7 +23,6 @@ Join our Discord server to stay updated on our future events and initiatives:
 ## Contact Us
 Connect with us:
 - Website: [www.wcewlug.org](https://www.wcewlug.org)
-- Email: [info@wcewlug.org](mailto:info@wcewlug.org)
 
 ## Follow Us on Social Media
 Stay connected and engaged with our community on social media platforms:
