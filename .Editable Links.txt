@@ -1,0 +1,45 @@
+Club Services
+
+1.Data Replication Using MongoDB
+2.FOSS
+3.Hadoop
+4.How Internet Works
+5.HTTP Cookies
+6.Linux File Management
+
+7.VPN
+  https://www.canva.com/design/DAGCAUpXCBQ/JgkC9vdAJSUwJFrqMaz3cQ/edit?utm_content=DAGCAUpXCBQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  
+8.SSH
+  https://www.canva.com/design/DAGCAf1d354/G4B3wATtrnwL3mOPvcx5DA/edit?utm_content=DAGCAf1d354&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+9.Neural Network 
+  Coming soon...
+
+
+Community Meetups
+
+1.Gnome Customization
+
+2.OS Placement Series
+  - Session 1 : https://www.canva.com/design/DAGCAQdpxhY/85Z5FWBJyxr_JunEqlhNQA/edit?utm_content=DAGCAQdpxhY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  - Session 2 : https://www.canva.com/design/DAGCAWMy_kM/IFcKsCFZm-CQmaaIkdyghw/edit?utm_content=DAGCAWMy_kM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  - Session 3 : https://www.canva.com/design/DAGCAe7GDzM/9sOZus_yWxlwf4oam-5XlQ/edit?utm_content=DAGCAe7GDzM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  - Session 4 : https://www.canva.com/design/DAGCATsiHDk/zSTbfMW-Cc1NK7eBGTvZoQ/edit?utm_content=DAGCATsiHDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  - Session 5 : https://www.canva.com/design/DAGCAR-2hu8/OXOpp679SeOTQDk04W2qSg/edit?utm_content=DAGCAR-2hu8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  - Session 6 : https://www.canva.com/design/DAGCAcg8quk/wcbUgtssT0RwSDGAPThKxA/edit?utm_content=DAGCAcg8quk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+Events 
+
+Linux Diary 
+
+1. LinuxDiary 3.0 (2023)
+   Day 1 Session 1 : https://www.canva.com/design/DAGCAe75HN0/VQYCWqRBMF8JAt6CYjwvQQ/edit?utm_content=DAGCAe75HN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+   Day 1 Session 2: https://www.canva.com/design/DAGCAeC59i4/UE_czi2EgU96UCo1BdSt8A/edit?utm_content=DAGCAeC59i4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+   Day 2 Session 1 : https://www.canva.com/design/DAGCAqeQghU/6SIcI74SZf0Dfc0VfVRTKg/edit?utm_content=DAGCAqeQghU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+   Day 2 Session 2 : https://www.canva.com/design/DAGCApz2XqE/rR5jH-QLFQjD4yJR0mHhrg/edit?utm_content=DAGCApz2XqE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+2. LinuxDiary 4.0(2024)
+   
