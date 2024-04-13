@@ -49,7 +49,7 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
   - Episode 3 : MicroMania  
 
 
-# WLUG Blogs
+## Blogs
 
 
 - [Memory and Storage Management in Linux](https://wcewlug.gitbook.io/wlug/blogs-by-club/memory-and-storage-management-in-linux)
