@@ -49,9 +49,18 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
   - Episode 3 : MicroMania  
 
 
-## Blogs
+# WLUG Blogs
 
-You can find our blogs [here](https://wcewlug.gitbook.io/wlug)
+
+- [Memory and Storage Management in Linux](https://wcewlug.gitbook.io/wlug/blogs-by-club/memory-and-storage-management-in-linux)
+
+- [How does the Internet work?](https://wcewlug.gitbook.io/wlug/blogs-by-club/how-does-the-internet-work)
+- [Open Source: For Beginners](https://wcewlug.gitbook.io/wlug/blogs-by-club/open-source-for-beginners)
+
+- [Knowing Git](https://wcewlug.gitbook.io/wlug/blogs-by-club/knowing-git)
+
+For more insightful content and updates, visit our [WLUG GitBook](https://wcewlug.gitbook.io/wlug). Join us in exploring the vast realm of technology and open source!
+
 
 
 ## Join us and stay updated on our future events and initiatives
