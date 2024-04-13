@@ -14,3 +14,8 @@ Join our Discord server to stay updated on our future events and initiatives:
 - [Join WLUG Discord](https://discord.wcewlug.org/join)
 
 
+## Follow Us on Social Media
+Stay connected and engaged with our community on social media platforms:
+- LinkedIn: [wlug-club](http://linkedin.com/company/wlug-club)
+- Twitter: [@wcewlug](http://twitter.com/wcewlug)
+- Instagram: [wcewlug](http://instagram.com/wcewlug)
