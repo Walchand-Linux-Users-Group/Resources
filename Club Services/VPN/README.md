@@ -1,14 +1,8 @@
-# Topic: Linux File Management
+# Topic: Virtual Private Network (VPN)
 ## Presentors: 
-- [Sagar Rahangdale](https://github.com/sagar-1004)
-- [Siddhi Hagwane](https://github.com/Siddhish16)
-- [Datta Gangji](https://github.com/the-att-21)
+- [Sharaneshwar Punjal](https://github.com/Sharaneshwar)
+- [Sharvari Jadav](https://github.com/sharvari-09)
 ---
-## Date: [15th July 2022]()
+## Date: [28th Dec 2023]()
 
-## Prerequisite
-- Dual booted PC or Linux system on VM
-- Basic information about Linux
-
-## Future References
-- 
+## Platform: [Discord]

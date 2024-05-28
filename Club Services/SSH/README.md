@@ -9,5 +9,4 @@
 - Dual booted PC or Linux system on VM
 - Basic information about Linux
 
-## Future References
-- 
+
