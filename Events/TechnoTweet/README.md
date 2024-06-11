@@ -1,13 +1,7 @@
-# Metamorphosis 2024 
+# TechnoTweet 
 
-## Presentation Links
-
-Below are the links to the PowerPoint presentations for each session. These presentations contain valuable insights and code snippets used during the workshop.
-
-- [Docker PPT](https://bit.ly/Docker_Meta2024)
-
-
-- [Golang PPT](https://bit.ly/GoLang_Meta2024)
+## Overview
+Unlock the potential of web development with our in-depth exploration of the MERN stack—MongoDB, Express, React, and Node.js. Dive into these cutting-edge technologies that are transforming the web development landscape, and gain the skills needed to build dynamic, responsive, and powerful web applications from the ground up. Join us to elevate your coding prowess and stay ahead in the fast-evolving world of web development!
 
 ## Getting Help
 

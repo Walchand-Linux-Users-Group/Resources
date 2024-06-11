@@ -1,13 +1,5 @@
-# Metamorphosis 2024 
+# Open Source Day 2023 
 
-## Presentation Links
-
-Below are the links to the PowerPoint presentations for each session. These presentations contain valuable insights and code snippets used during the workshop.
-
-- [Docker PPT](https://bit.ly/Docker_Meta2024)
-
-
-- [Golang PPT](https://bit.ly/GoLang_Meta2024)
 
 ## Getting Help
 
