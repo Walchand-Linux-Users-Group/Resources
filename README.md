@@ -7,6 +7,7 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
 ## Events
 - LinuxDiary 3.0
 - LinuxDiary 4.0
+- LinuxDiary 5.0
 - Metamorphosis 2024
 - Metamorphosis 
 - Open Source Day 2023
@@ -46,7 +47,14 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
 - Season 3 | Ops Unleashed
   - Episode 1 : The Virtual Realm
   - Episode 2 : Beyond Containers
-  - Episode 3 : MicroMania  
+  - Episode 3 : MicroMania
+
+- Season 4 | Api Alchemy
+  - Episode 1 : Api Demystified 
+  - Episode 2 : Beyond The Endpoint
+  - Episode 3 : Mapping The Graph
+  - Episode 4 : Uncovering RPCs
+  - Episode 5 : The Wonders Of Real Time Systems
 
 
 ## Blogs
