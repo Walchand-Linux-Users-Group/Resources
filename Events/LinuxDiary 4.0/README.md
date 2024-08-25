@@ -19,4 +19,4 @@ Below are the links to the PowerPoint presentations for each session. These pres
 If you have any questions or need further assistance regarding the workshop content, feel free to reach out to the WLUG team.
 
 
-Thank you for participating in the LinuxDiary 2024. Happy coding!
+Thank you for participating in the LinuxDiary 2023. Happy coding!
