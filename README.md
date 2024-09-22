@@ -56,13 +56,6 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
   - Episode 4 : Uncovering RPCs
   - Episode 5 : The Wonders Of Real Time Systems
 
-- Season 4 | API Alchemy
-  - Episode 1 : API Demystified
-  - Episode 2 : Beyond the Endpoint
-  - Episode 3 : Mapping the Graph
-  - Episode 4 : Uncovering RPCs
-  - Episode 5 : The Wonders of Real Time Communications
-
 ## Blogs
 
 
