@@ -23,6 +23,7 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
 - Linux File Management
 - Virtual Private Network (VPN)
 - Secure Shell(SSH)
+- Open-Source Intelligence
 
 ## Community Meetups
 - Gnome Customization
@@ -81,5 +82,5 @@ https://discord.wcewlug.org/join
 
 <br>
 
-<p align="center">© 2023 WCEWLUG, ALL RIGHTS RESERVED</p>
+<p align="center">© 2024 WCEWLUG, ALL RIGHTS RESERVED</p>
 
