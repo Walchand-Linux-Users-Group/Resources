@@ -82,5 +82,5 @@ https://discord.wcewlug.org/join
 
 <br>
 
-<p align="center">© 2024 WCEWLUG, ALL RIGHTS RESERVED</p>
+<p align="center">© 2022 WCEWLUG, ALL RIGHTS RESERVED</p>
 
