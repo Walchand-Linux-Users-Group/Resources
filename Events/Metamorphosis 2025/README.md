@@ -1,8 +1,8 @@
 # Metamorphosis 2025
 
 Metamorphosis 2K25 is a two-day workshop focused on Docker and Kubernetes.
-- Day 1 covers Docker fundamentals, including installation, Docker Engine, Dockerfiles, Docker networking, and Docker Compose.
-- Day 2 dives into Kubernetes, covering microservices, REST APIs, Kubernetes architecture, Kubernetes objects, and kubectl commands.
+- Day 1 covers Docker fundamentals, including installation, Docker Engine, Dockerfiles, Docker networking and Docker Compose.
+- Day 2 dives into Kubernetes, covering microservices, REST APIs, Kubernetes architecture, Kubernetes objects and kubectl commands.
 
 The workshop concludes with a hands-on DevOps project, where participants integrate Docker and Kubernetes concepts for real-world deployment.
 
