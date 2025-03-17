@@ -8,6 +8,7 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
 - LinuxDiary 3.0
 - LinuxDiary 4.0
 - LinuxDiary 5.0
+- Metamorphosis 2025
 - Metamorphosis 2024
 - Metamorphosis 
 - Open Source Day 2023
