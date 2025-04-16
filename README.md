@@ -58,6 +58,13 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
   - Episode 4 : Uncovering RPCs
   - Episode 5 : The Wonders Of Real Time Systems
 
+- Season 5 | The Cipher Files 
+  - Episode 1 : The Hash Game 
+  - Episode 2 : The Key Chronicles 
+  - Episode 3 : The Crypto Bridge 
+  - Episode 4 : The Quantum Quest  
+
+
 ## Blogs
 
 
@@ -83,5 +90,5 @@ https://discord.wcewlug.org/join
 
 <br>
 
-<p align="center">© 2022 WCEWLUG, ALL RIGHTS RESERVED</p>
+<p align="center">© 2025 WCEWLUG, ALL RIGHTS RESERVED</p>
 
