@@ -40,8 +40,8 @@ The event focused on **Open Source fundamentals**, **Git & GitHub**, and **Cyber
 
 ## Presenters
 
-| **Session 01** | **Session 02** | **Special Attraction** |
-|----------------|----------------|------------------------|
+| **Session 01** | **Session 02** | **Reverse Engineering** |
+|----------------|----------------|-------------------------|
 | [Sweta Patel](https://github.com/Sweta-364)                | [Varun Kachroo](https://github.com/Varun-Kachroo) | [Chaitanya Patil](https://github.com/chaitanya2850) |
 | [Siddharth Shrimali](https://github.com/siddharthshrimali) | [Neel Shinde](https://github.com/neel-1414)       |                                                     |
 
