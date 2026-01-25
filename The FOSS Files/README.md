@@ -40,3 +40,9 @@ Join our Discord server [here](https://discord.wcewlug.org/join) to connect with
   - [Episode 2 : The Key Chronicles](./S5-The%20Cipher%20Files/S5E2-The%20Key%20Chronicles.pdf)
   - [Episode 3 : The Crypto Bridge](./S5-The%20Cipher%20Files/S5E3-The%20Crypto%20Bridge.pdf)
   - [Episode 4 : The Quantum Quest](./S5-The%20Cipher%20Files/S5E4-The%20Quantum%20Quest.pdf)
+
+## Season 6 | The CDN Mystery
+  - [Episode 1 : The Language Lair](./S6-CDN%20Mystery/S6E1-Networking%20Essentials.pdf)
+  - [Episode 2 : CDN Dynamics](./S6-CDN%20Mystery/S6E2-CDN%20Dynamics.pdf)
+  - [Episode 3 : Routing Secrets](./S6-CDN%20Mystery/S6E3-Routing%20Secrets.pdf)
+  - [Episode 4 : Torrent Dynamics](./S6-CDN%20Mystery/S6E4-Torrent%20Dynamics.pdf)
