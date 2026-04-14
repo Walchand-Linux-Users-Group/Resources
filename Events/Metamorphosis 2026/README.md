@@ -1,6 +1,6 @@
 # Metamorphosis 2026
 
-Metamorphosis 2K26 was a two-day workshop focused on two technologiesv:***Docker*** and ***GoLang***. 
+Metamorphosis 2K26 was a two-day workshop focused on two technologies: ***Docker*** and ***GoLang***. 
 - The event included two sessions for each technology, covering all the core concepts, along with hands-on.
 - It also involved building a project, showcasing the real-world application of these technologies.
 
