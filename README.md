@@ -8,11 +8,14 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
 - LinuxDiary 3.0
 - LinuxDiary 4.0
 - LinuxDiary 5.0
-- Metamorphosis 2025
+- LinuxDiary 6.0
+- LinuxDiary 7.0
 - Metamorphosis 2024
-- Metamorphosis 
+- Metamorphosis 2025
+- Metamorphosis 2026  
 - Open Source Day 2023
-- Open Source Day 
+- Open Source Day 2024
+- Open Source Day 2025
 - TechnoTweet
 
 ## Club Services
