@@ -1,4 +1,4 @@
-# Open Source Day 2026
+# Open Source Day 2025
 
 ## Overview
 
