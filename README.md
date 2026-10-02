@@ -65,7 +65,13 @@ Welcome to our collection of references, tutorials, articles, courses, and more 
   - Episode 1 : The Hash Game 
   - Episode 2 : The Key Chronicles 
   - Episode 3 : The Crypto Bridge 
-  - Episode 4 : The Quantum Quest  
+  - Episode 4 : The Quantum Quest
+    
+- Season 6 | CDN Mystery
+  - Episode 1 : Networking Essential
+  - Episode 2 : CDN Dynamics
+  - Episode 3 : Routing Secrets
+  - Episode 4 : Torrent Dynamics
 
 
 ## Blogs
